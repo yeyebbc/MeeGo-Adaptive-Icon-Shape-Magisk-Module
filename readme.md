@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## Feature:
+## Feature
 
 Replace system’s Adaptive Icon’s shape to MeeGo Harmattan shape. Everyone loves Nokia N9’s design.
 
