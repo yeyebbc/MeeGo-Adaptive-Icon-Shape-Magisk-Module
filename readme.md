@@ -1,6 +1,6 @@
 &nbsp;
 
-# MeeGo Icon Shape For Android 12
+# MeeGo Icon Shape Magisk Module for Android 12
 
 &nbsp;
 
