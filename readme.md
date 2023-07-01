@@ -1,6 +1,6 @@
-## MeeGo Icon Shape For Android 12
+&nbsp;
 
----
+## MeeGo Icon Shape For Android 12
 
 &nbsp;
 
@@ -8,15 +8,13 @@
 
 &nbsp;
 
----
-
 #### Feature:
 
 Replace system’s Adaptive Icon’s shape to MeeGo Harmattan shape. Everyone loves Nokia N9’s design.
 
 #### Download
 
-Head to release page.
+Head to [release page](https://github.com/yeyebbc/MeeGo-Adaptive-Icon-Shape-Magisk-Module/releases).
 
 #### Requirements & Warning:
 
