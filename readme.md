@@ -8,15 +8,15 @@
 
 &nbsp;
 
-### Feature:
+## Feature:
 
 Replace system’s Adaptive Icon’s shape to MeeGo Harmattan shape. Everyone loves Nokia N9’s design.
 
-### Download
+## Download
 
 Head to [release page](https://github.com/yeyebbc/MeeGo-Adaptive-Icon-Shape-Magisk-Module/releases).
 
-### Requirements & Warning:
+## Requirements & Warning:
 
 - Magisk installed.
 - Android 12 (maybe)
@@ -30,4 +30,7 @@ Head to [release page](https://github.com/yeyebbc/MeeGo-Adaptive-Icon-Shape-Magi
 > This should boot your phone into safe mode.
 > &nbsp;
 
-Based on CoolAPK user @天伞桜’s work.
+## Credit
+
+- Nokia Design Team
+- CoolAPK user @天伞桜’s original module on which this module is based
