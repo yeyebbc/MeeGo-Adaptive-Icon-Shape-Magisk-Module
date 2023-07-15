@@ -26,7 +26,7 @@ Head to [release page](https://github.com/yeyebbc/MeeGo-Adaptive-Icon-Shape-Magi
 >
 > Power your phone up with the power button, and hold the power button until you see an animated logo appear.
 > Hold the Volume Down button once you see the animated logo appear.
-> Continue holding Volume Down until your device vibrates then reboots.
+> Continue holding Volume Down until your device vibrates and reboots.
 > This should boot your phone into safe mode.
 > &nbsp;
 
