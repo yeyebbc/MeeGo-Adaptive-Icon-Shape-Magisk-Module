@@ -1,6 +1,6 @@
 &nbsp;
 
-# MeeGo Icon Shape Magisk Module for Android 12
+# MeeGo Icon Shape Magisk Module for Android 12+
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Head to [release page](https://github.com/yeyebbc/MeeGo-Adaptive-Icon-Shape-Magi
 
 - Magisk installed.
 - Android 12 (maybe)
-  Tested on Android 12, for other versions test it on your own. If it boot loops, boot into safe mode then reboot again to remove the module.
+  Tested on Android 12 and 13, for other versions test it on your own. If it boot loops, boot into safe mode then reboot again to remove the module.
 
 > &nbsp; > **Enter safe mode with device buttons**
 >
