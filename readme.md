@@ -4,7 +4,7 @@
 
 &nbsp;
 
-![Screenshot after installed this module.](screenshot_1.png)
+![Screenshot after installed this module.](/assets/screenshot_1.png)
 
 &nbsp;
 
